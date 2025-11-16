@@ -16,7 +16,7 @@ variables:
 
   # Ім'я Service Connection з Кроку 3
 
-  acrServiceConnection: 'azure-subscription-connection' 
+  acrServiceConnection: 'smartgov-acr-connection' 
 
 
 
